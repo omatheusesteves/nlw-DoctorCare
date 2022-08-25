@@ -17,7 +17,7 @@
   <img alt="DoctorCare" src="assets/preview.jpg" width="100%">
 </p>
 
-## Site
+## 🌐 Site
 - [doctorcare.com](https://omatheusesteves.github.io/nlw-DoctorCare/)
 
 ## 🚀 Tecnologias
