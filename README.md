@@ -17,6 +17,9 @@
   <img alt="DoctorCare" src="assets/preview.jpg" width="100%">
 </p>
 
+## Site
+- [Site](https://omatheusesteves.github.io/nlw-DoctorCare/)
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
