@@ -18,7 +18,7 @@
 </p>
 
 ## Site
-- [Site](https://omatheusesteves.github.io/nlw-DoctorCare/)
+- [doctorcare.com](https://omatheusesteves.github.io/nlw-DoctorCare/)
 
 ## 🚀 Tecnologias
 
